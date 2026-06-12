@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="y-k4mrUNN7kwNyiDsFF6">
-    <mxGraphModel dx="1432" dy="837" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2259" dy="883" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -416,6 +416,9 @@
         </mxCell>
         <mxCell id="lSMtTZYn3aQ_j7IrD9y6-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;ADC&lt;/div&gt;" vertex="1">
           <mxGeometry height="18" width="60" x="319" y="401" as="geometry" />
+        </mxCell>
+        <mxCell id="UvErQbi5WR1bpuBeAQCW-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;ul&gt;&lt;li align=&quot;justify&quot;&gt;&amp;nbsp;NTC (temperature sensors)&lt;/li&gt;&lt;li align=&quot;justify&quot;&gt;1 Circulating Fan (other optional - size), with 3 or 4 wires for feedback&lt;/li&gt;&lt;li align=&quot;justify&quot;&gt;&amp;nbsp;Forced ventilation (small exhaust fan)&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="102" width="274" x="-280" y="247" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
