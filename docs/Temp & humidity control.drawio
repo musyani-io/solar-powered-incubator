@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="y-k4mrUNN7kwNyiDsFF6">
-    <mxGraphModel dx="1486" dy="-193" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2123" dy="196" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,9 +62,6 @@
         </mxCell>
         <mxCell id="xQJdYX6CyeWhk-Q7Fefu-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Driving Circuit" vertex="1">
           <mxGeometry height="36" width="113" x="567.05" y="1453" as="geometry" />
-        </mxCell>
-        <mxCell id="xQJdYX6CyeWhk-Q7Fefu-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5V" vertex="1">
-          <mxGeometry height="13" width="38" x="470.95000000000005" y="1205.5" as="geometry" />
         </mxCell>
         <mxCell id="xQJdYX6CyeWhk-Q7Fefu-16" edge="1" parent="1" source="xQJdYX6CyeWhk-Q7Fefu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="xQJdYX6CyeWhk-Q7Fefu-7">
           <mxGeometry relative="1" as="geometry">
