@@ -193,7 +193,7 @@
         <mxCell id="xQJdYX6CyeWhk-Q7Fefu-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Circulating Fans&lt;br&gt;(Flyback protection)" vertex="1">
           <mxGeometry height="41" width="119" x="822.05" y="1395.5" as="geometry" />
         </mxCell>
-        <mxCell id="xQJdYX6CyeWhk-Q7Fefu-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=14;fontStyle=1" value="Circulation and Ventilation&amp;nbsp;" vertex="1">
+        <mxCell id="xQJdYX6CyeWhk-Q7Fefu-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=14;fontStyle=1" value="Circulation + Exhaust fans" vertex="1">
           <mxGeometry height="45" width="169" x="798" y="1466" as="geometry" />
         </mxCell>
         <mxCell id="xQJdYX6CyeWhk-Q7Fefu-92" edge="1" parent="1" source="xQJdYX6CyeWhk-Q7Fefu-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xQJdYX6CyeWhk-Q7Fefu-73">
