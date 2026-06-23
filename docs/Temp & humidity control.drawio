@@ -422,6 +422,9 @@
         <mxCell id="RRXUh_2wzSx7oeTKsEOK-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FAN_TACH" vertex="1">
           <mxGeometry height="19" width="60" x="824" y="2368" as="geometry" />
         </mxCell>
+        <mxCell id="RRXUh_2wzSx7oeTKsEOK-37" parent="1" style="html=1;align=left;whiteSpace=wrap;textShadow=0;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;NTC Thermistors x 2 - 2 ADC&lt;/li&gt;&lt;li&gt;Limit switches x 2 - 2 GPIO Pins&lt;/li&gt;&lt;li&gt;&lt;div&gt;Temp &amp;amp; Humid sensor + Current Sensor I2C - 2 pins (data + clock)&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div&gt;Circulations fan x 2 (4 pin) - 2 PWMs, 2 GPIO Pins&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="98" width="406" x="1328" y="1872" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
